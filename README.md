@@ -1,6 +1,8 @@
-# ReScript Project Template
+# ReScript Lox
 
-The only official ReScript starter template.
+This is a rescript implementation of the First Interpreter from Robert Nystrom's book "Crafting Interpreters".
+
+Thanks to the only [official ReScript starter template](https://github.com/rescript-lang/rescript-project-template) for providing said template.
 
 ## Installation
 
